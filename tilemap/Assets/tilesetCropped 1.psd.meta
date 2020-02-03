@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 0bc2d98d9033b704c8e2b19e3fcf8dda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1508386601660959531
+    second: tilesetCropped 1_0
+  - first:
+      213: -215103485066066878
+    second: tilesetCropped 1_1
+  - first:
+      213: 21514260175188080
+    second: tilesetCropped 1_2
+  - first:
+      213: -2132556392773164906
+    second: tilesetCropped 1_3
+  - first:
+      213: -4282527765656049533
+    second: tilesetCropped 1_4
+  - first:
+      213: 765333447484221512
+    second: tilesetCropped 1_5
+  - first:
+      213: 3416884835556590885
+    second: tilesetCropped 1_6
+  - first:
+      213: -1252119905697874048
+    second: tilesetCropped 1_7
+  - first:
+      213: -4179818853654097845
+    second: tilesetCropped 1_8
+  - first:
+      213: 7481270441516696732
+    second: tilesetCropped 1_9
+  - first:
+      213: -5350553166912300167
+    second: tilesetCropped 1_10
+  - first:
+      213: -5127902262716690091
+    second: tilesetCropped 1_11
+  - first:
+      213: 6879855933673921556
+    second: tilesetCropped 1_12
+  - first:
+      213: -7994263748027568035
+    second: tilesetCropped 1_13
+  - first:
+      213: -4934808666072723000
+    second: tilesetCropped 1_14
+  - first:
+      213: 91446314755040564
+    second: tilesetCropped 1_15
+  - first:
+      213: -4386586426137225707
+    second: tilesetCropped 1_16
+  - first:
+      213: 6638097991280630938
+    second: tilesetCropped 1_17
+  - first:
+      213: -1709353628140970329
+    second: tilesetCropped 1_18
+  - first:
+      213: 5264061702046291528
+    second: tilesetCropped 1_19
+  - first:
+      213: -4573307027148282821
+    second: tilesetCropped 1_20
+  - first:
+      213: -4811928505598482387
+    second: tilesetCropped 1_21
+  - first:
+      213: -6672067562542687814
+    second: tilesetCropped 1_22
+  - first:
+      213: 8286336282579771353
+    second: tilesetCropped 1_23
+  - first:
+      213: -6590865061980294622
+    second: tilesetCropped 1_24
+  - first:
+      213: -1526297618267113848
+    second: tilesetCropped 1_25
+  - first:
+      213: 1895989144869774094
+    second: tilesetCropped 1_26
+  - first:
+      213: 4609616494875539722
+    second: tilesetCropped 1_27
+  - first:
+      213: 1703501728020244037
+    second: tilesetCropped 1_28
+  - first:
+      213: -9115243801627376512
+    second: tilesetCropped 1_29
+  - first:
+      213: -8081787128564439875
+    second: tilesetCropped 1_30
+  - first:
+      213: 2966251540186496252
+    second: tilesetCropped 1_31
+  - first:
+      213: 9117366400966982214
+    second: tilesetCropped 1_32
+  - first:
+      213: -8421953615319212332
+    second: tilesetCropped 1_33
+  - first:
+      213: 4446018956143127995
+    second: tilesetCropped 1_34
+  - first:
+      213: -5012570060337931561
+    second: tilesetCropped 1_35
+  - first:
+      213: 4926187294409445808
+    second: tilesetCropped 1_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesetCropped 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bc5f75f9ddee410800000000000000
+      internalID: 1508386601660959531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24440be158cc30df0800000000000000
+      internalID: -215103485066066878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f85b0b1f6c4000800000000000000
+      internalID: 21514260175188080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69064417243a762e0800000000000000
+      internalID: -2132556392773164906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e25bdfa76194c0800000000000000
+      internalID: -4282527765656049533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a50037b20f9a00800000000000000
+      internalID: 765333447484221512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52505cd87a63b6f20800000000000000
+      internalID: 3416884835556590885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fbeac64939f9ee0800000000000000
+      internalID: -1252119905697874048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b409772f5ec4ef5c0800000000000000
+      internalID: -4179818853654097845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 968
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948b3f34dfc2d760800000000000000
+      internalID: 7481270441516696732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd95e3e340fb5b0800000000000000
+      internalID: -5350553166912300167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55199d39f0806d8b0800000000000000
+      internalID: -5127902262716690091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5f7845882a7f50800000000000000
+      internalID: 6879855933673921556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b8020a7bae0190800000000000000
+      internalID: -7994263748027568035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15738f9a9048bb0800000000000000
+      internalID: -4934808666072723000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4352ef250f1e44100800000000000000
+      internalID: 91446314755040564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5165a85f2e6bf13c0800000000000000
+      internalID: -4386586426137225707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1482f3f24f1c50800000000000000
+      internalID: 6638097991280630938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed1278ee72748e0800000000000000
+      internalID: -1709353628140970329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_19
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 712
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84615325a34bd0940800000000000000
+      internalID: 5264061702046291528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34670e3d795880c0800000000000000
+      internalID: -4573307027148282821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e933d488983db0800000000000000
+      internalID: -4811928505598482387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99c39e6ed0863a0800000000000000
+      internalID: -6672067562542687814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df199432fafef270800000000000000
+      internalID: 8286336282579771353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b122652b8884a0800000000000000
+      internalID: -6590865061980294622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f9a1276081dae0800000000000000
+      internalID: -1526297618267113848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03a5f5f418ef4a10800000000000000
+      internalID: 1895989144869774094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_27
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0976df77c5a8ff30800000000000000
+      internalID: 4609616494875539722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54629eccbcd04a710800000000000000
+      internalID: 1703501728020244037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_29
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 456
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0844bea9e06208180800000000000000
+      internalID: -9115243801627376512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a79bfc69b7df80800000000000000
+      internalID: -8081787128564439875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc75475f0e3a2920800000000000000
+      internalID: 2966251540186496252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 200
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af7b09f64678e70800000000000000
+      internalID: 9117366400966982214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 200
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded41ceec53f1b80800000000000000
+      internalID: -8421953615319212332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 200
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd60914fae63bd30800000000000000
+      internalID: 4446018956143127995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 200
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9ccd7616cf6ab0800000000000000
+      internalID: -5012570060337931561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesetCropped 1_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 200
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b151548e355d5440800000000000000
+      internalID: 4926187294409445808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
