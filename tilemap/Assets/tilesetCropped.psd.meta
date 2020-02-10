@@ -430,7 +430,7 @@ TextureImporter:
         serializedVersion: 2
         x: 256
         y: 712
-        width: 256
+        width: 249
         height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -449,9 +449,9 @@ TextureImporter:
       name: tilesetCropped_12
       rect:
         serializedVersion: 2
-        x: 512
+        x: 508
         y: 712
-        width: 256
+        width: 260
         height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

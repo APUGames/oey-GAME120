@@ -770,7 +770,7 @@ TextureImporter:
         x: 1792
         y: 456
         width: 256
-        height: 256
+        height: 252
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -833,7 +833,7 @@ TextureImporter:
         x: 0
         y: 200
         width: 256
-        height: 256
+        height: 254
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -854,7 +854,7 @@ TextureImporter:
         x: 256
         y: 200
         width: 256
-        height: 256
+        height: 254
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,7 +875,7 @@ TextureImporter:
         x: 512
         y: 200
         width: 256
-        height: 256
+        height: 253
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -914,9 +914,9 @@ TextureImporter:
       name: tilesetCropped 2_34
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 1030
         y: 200
-        width: 256
+        width: 250
         height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
